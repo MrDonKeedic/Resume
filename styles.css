@@ -1,0 +1,61 @@
+.header {
+    text-align: center;
+}
+
+.Summary {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-top: 25px;
+}
+
+.summary1 {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Education {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-top: 25px;
+}
+
+.educationlist {
+text-align: center;
+list-style-position:inside; /* This property ensures the bullet points are inside the list items */
+  padding-left: 0; /* Remove default padding to avoid misalignment */
+}
+
+.educationlist li {
+    text-align: left;
+    padding-left: 40%;
+}
+
+.Skills {
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.skills1 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-top: 25px;
+}
+
+.skills1 li {
+    list-style-type: none;
+}
+
+.Projects {
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.proj1 {
+     text-align: center;
+}
